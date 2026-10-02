@@ -2,9 +2,9 @@ import { ROUTES, type AppRoute } from './routes'
 
 export const SITE = {
   name: 'Eric Minkowski',
-  domain: 'minkow.ski',
+  domain: 'eminkow.ski',
   title: 'Lead / Staff Software Engineer',
-  email: 'eric@minkow.ski',
+  email: 'eric@eminkow.ski',
   github: 'https://github.com/eminkowski',
   githubHandle: 'eminkowski',
   linkedin: 'https://linkedin.com/in/eminkowski',
@@ -13,7 +13,7 @@ export const SITE = {
   /** Redirects to Google Drive via public/_redirects (prod) or Vite middleware (dev). */
   resume: '/resume',
   trudge: 'https://trudge.app',
-  repo: 'https://github.com/eminkowski/minkow-ski',
+  repo: 'https://github.com/eminkowski/eminkow-ski',
   supportDeskRepo: 'https://github.com/eminkowski/support-desk-mcp',
   worksurfaceRepo: 'https://github.com/eminkowski/worksurface-ui',
   agentEvalHarnessRepo: 'https://github.com/eminkowski/agent-eval-harness',

@@ -4,7 +4,7 @@ globs: "{src/**/*.{ts,tsx},index.html,README.md}"
 alwaysApply: false
 ---
 
-# Copy voice (minkow.ski)
+# Copy voice (eminkow.ski)
 
 All user-facing strings must sound like a real person wrote them.
 
