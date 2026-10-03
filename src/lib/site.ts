@@ -3,7 +3,7 @@ import { ROUTES, type AppRoute } from './routes'
 export const SITE = {
   name: 'Eric Minkowski',
   domain: 'eminkow.ski',
-  title: 'Lead / Staff Software Engineer',
+  title: 'Full-Stack Software Engineer',
   email: 'eric@eminkow.ski',
   github: 'https://github.com/eminkowski',
   githubHandle: 'eminkowski',

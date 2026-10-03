@@ -2,7 +2,7 @@ export const ABOUT_SECTIONS = [
   {
     title: 'About',
     paragraphs: [
-      "I'm a lead full-stack engineer with about 20 years of experience building and modernizing B2B SaaS products and internal platforms. I've spent most of my career moving between frontend, backend, infrastructure, and architecture while staying hands-on in production code.",
+      "I'm a full-stack software engineer with about 20 years of experience building and modernizing B2B SaaS products and internal platforms. I've spent most of my career moving between frontend, backend, infrastructure, and architecture while staying hands-on in production code.",
     ],
   },
   {
@@ -15,16 +15,16 @@ export const ABOUT_SECTIONS = [
     ],
   },
   {
-    title: 'Engineering leadership',
+    title: 'Recent work',
     paragraphs: [
-      'At Lextegrity, I worked on architecture and platform initiatives used across multiple engineering teams. I built a shared component library and style guide to improve consistency across products. I also built CI/CD pipelines with GitHub Actions and used AWS CDK for infrastructure. Earlier in my time there, I directly managed two engineering teams while still spending most of my time coding.',
-      'More recently, I worked on a small engineering team building a modern practice management platform from the ground up. There was no dedicated product team, so engineering was deeply involved in defining how the product should work and carrying those decisions through implementation.',
+      'At Lextegrity, I worked through a multi-year modernization of a multi-tenant B2B SaaS platform as the customer base grew. I set microfrontend patterns, shared React libraries, and delivery workflows that other engineering teams picked up. I also managed six engineers through regular 1:1s and mentoring, and I still spent most of my time on architecture and implementation.',
+      'More recently, I contracted with a four-engineer startup building a practice management platform. I defined the MVP architecture and core domain model, owned the AWS foundation, and stayed hands-on in React, Node.js, and Postgres. There was no separate product team, so engineering helped decide how the product should work and then built it.',
     ],
   },
   {
     title: "What I'm looking for",
     paragraphs: [
-      "I'm most interested in senior, lead, or staff-level individual contributor roles where I can stay hands-on and help shape technical direction.",
+      "I'm looking for hands-on engineering roles where I can keep building and help shape technical direction.",
     ],
   },
 ] as const

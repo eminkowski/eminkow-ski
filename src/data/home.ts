@@ -33,7 +33,7 @@ export const HOME_PROJECTS_BLURB =
   'Selected work across product engineering, agent workflows, design systems, and durable orchestration.'
 
 export const HOME_INTRO =
-  'Lead full-stack engineer with 20 years of experience building and modernizing B2B SaaS platforms across React, TypeScript, Node.js, AWS, APIs, and distributed systems. I’ve led major platform and architecture initiatives, established engineering patterns used across teams, managed and mentored engineers, and remained hands-on with design and implementation. My work spans product engineering, frontend architecture, backend services, cloud infrastructure, and complex enterprise workflows.'
+  'Full-stack software engineer with 20 years of experience building and modernizing B2B SaaS platforms across React, TypeScript, Node.js, AWS, and distributed systems. I stay hands-on across frontend, backend, cloud infrastructure, CI/CD, and production reliability. That work has included architecture, shared engineering patterns, mentoring, and the technical decisions that hold a complex system together.'
 
 export const HOME_STATUS = 'Available for remote roles'
 
@@ -55,7 +55,6 @@ export const HOME_METRICS_LABEL = 'Experience'
 export const METRICS = [
   { value: '20', label: 'yrs exp' },
   { value: '6', label: 'companies' },
-  { value: '10', label: 'engineers led across teams' },
 ] as const
 
 interface HomeTileLayout {
